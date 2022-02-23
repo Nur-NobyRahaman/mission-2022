@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Poppins', sans-serif
+    font-family: 'Poppins', sans-serif;
 }
 section{
     margin-bottom: 150px;
@@ -87,3 +87,23 @@ background-color: rgba(255, 250, 205, 0.781);
 .global-img{
     margin-left: 30%;
 }
+.contact-h1-p{
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+.information{
+    box-shadow: 10px 10px 80px gray;
+    margin: 10px 100px 10px 70px;
+    padding: 10px 1px 10px 20px;
+}
+footer{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: lightblue;
+}
+.red{
+    color: red;
+}
+
