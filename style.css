@@ -1,0 +1,44 @@
+body{
+    
+}
+.flex-section{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    margin-left: 8px;
+    
+    
+}
+.focused-bordar{
+    border-left: 4px solid tomato;
+   
+}
+.orange-color{
+    color: orange;
+}
+.helf-width{
+    width: 50%;
+    margin-left: 40px;
+    padding-left: 20px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 600;
+    
+}
+.focused-para{
+    margin-bottom: 40px;
+}
+.focused-para2{
+    margin-top: 40px;
+}
+.focused-img{
+    width: 60%;
+    margin-left: 20px;
+    padding-left: 20px;
+    
+}
