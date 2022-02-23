@@ -1,5 +1,6 @@
 body{
-    
+    margin: 0;
+    font-family: 'Poppins', sans-serif
 }
 .flex-section{
     display: flex;
@@ -18,8 +19,8 @@ h1{
     color: orange;
 }
 .helf-width{
-    width: 50%;
-    margin-left: 40px;
+    width: 40%;
+    margin-left: 80px;
     padding-left: 20px;
 }
 .link-button{
@@ -41,4 +42,31 @@ h1{
     margin-left: 20px;
     padding-left: 20px;
     
+}
+.mission-h1{
+    text-align: center;
+}
+.width{
+    margin-left: 90px;
+}
+.mission-width{
+    width: 30%;
+    border-radius: 15px;
+    /* margin: 5px 5%; */
+    margin-right: 3%;
+    padding: 5px 20px;
+}
+.missin-img{
+    width: 35%;
+}
+.Mission{
+    background-color: rgba(173, 216, 230, 0.356);
+    
+}
+.Vission{
+background-color: lavenderblush;
+
+}
+.Goals{
+background-color: rgba(255, 250, 205, 0.781);
 }
